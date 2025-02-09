@@ -6,3 +6,8 @@ senior_project
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+
+
+
+## Datasets
+The datasets required for this project can be downloaded [here](https://drive.google.com/drive/folders/1T6jOpGYDdjvk-bziPiYWYe19EtNA-keM?usp=sharing).
