@@ -1,0 +1,141 @@
+2025-02-09 11:46:42,237 - Loading Excel dataset: Book2.xlsx
+2025-02-09 11:46:42,346 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 11:46:42,626 - Loading CSV dataset: data1.csv
+2025-02-09 11:46:45,806 - Loading Excel dataset: data1.xlsx
+2025-02-09 11:46:52,018 - Loading CSV dataset: datatest1.csv
+2025-02-09 11:46:52,023 - Loading Excel dataset: datatest1.xlsx
+2025-02-09 11:46:52,034 - Loading CSV dataset: emails.csv
+2025-02-09 11:46:52,531 - Combined dataset size: (188243, 799)
+2025-02-09 11:47:39,188 - Loading Excel dataset: Book2.xlsx
+2025-02-09 11:47:39,291 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 11:47:39,563 - Loading CSV dataset: data1.csv
+2025-02-09 11:47:42,734 - Loading Excel dataset: data1.xlsx
+2025-02-09 11:47:48,981 - Loading CSV dataset: datatest1.csv
+2025-02-09 11:47:48,985 - Loading Excel dataset: datatest1.xlsx
+2025-02-09 11:47:48,996 - Loading CSV dataset: emails.csv
+2025-02-09 11:47:49,478 - Combined dataset size: (188243, 799)
+2025-02-09 11:50:48,174 - Loading Excel dataset: Book2.xlsx
+2025-02-09 11:50:48,280 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 11:50:48,561 - Loading CSV dataset: data1.csv
+2025-02-09 11:50:51,711 - Loading Excel dataset: data1.xlsx
+2025-02-09 11:50:57,741 - Loading CSV dataset: datatest1.csv
+2025-02-09 11:50:57,746 - Loading Excel dataset: datatest1.xlsx
+2025-02-09 11:50:57,756 - Loading CSV dataset: emails.csv
+2025-02-09 11:50:58,241 - Combined dataset size: (188243, 799)
+2025-02-09 11:53:48,444 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 11:53:48,722 - Loading CSV dataset: data1.csv
+2025-02-09 11:53:51,914 - Loading Excel dataset: data1.xlsx
+2025-02-09 11:53:58,033 - Loading CSV dataset: datatest1.csv
+2025-02-09 11:53:58,037 - Loading CSV dataset: emails.csv
+2025-02-09 11:53:58,921 - Combined dataset size: (188096, 799)
+2025-02-09 11:58:51,238 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 11:58:51,517 - Loading CSV dataset: data1.csv
+2025-02-09 11:58:54,656 - Loading Excel dataset: data1.xlsx
+2025-02-09 11:59:00,914 - Loading CSV dataset: datatest1.csv
+2025-02-09 11:59:00,919 - Loading CSV dataset: emails.csv
+2025-02-09 11:59:01,807 - Combined dataset size: (188096, 799)
+2025-02-09 12:11:11,418 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:11:11,689 - Loading Excel dataset: data1.xlsx
+2025-02-09 12:11:17,380 - Loading CSV dataset: datatest1.csv
+2025-02-09 12:11:17,384 - Loading CSV dataset: emails.csv
+2025-02-09 12:11:17,836 - Combined dataset size: (116610, 799)
+2025-02-09 12:11:47,482 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:11:47,761 - Loading Excel dataset: data1.xlsx
+2025-02-09 12:11:53,892 - Loading CSV dataset: emails.csv
+2025-02-09 12:11:54,349 - Combined dataset size: (116486, 799)
+2025-02-09 12:13:12,478 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:13:12,761 - Loading Excel dataset: data1.xlsx
+2025-02-09 12:13:18,310 - Loading CSV dataset: emails.csv
+2025-02-09 12:13:18,612 - Combined dataset size: (116486, 799)
+2025-02-09 12:13:53,186 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:13:53,455 - Loading CSV dataset: emails.csv
+2025-02-09 12:13:53,495 - Combined dataset size: (44884, 2)
+2025-02-09 12:16:39,856 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:16:40,150 - Loading CSV dataset: data1.csv
+2025-02-09 12:16:43,398 - Loading Excel dataset: data1.xlsx
+2025-02-09 12:16:49,907 - Loading CSV dataset: datatest1.csv
+2025-02-09 12:16:49,912 - Loading CSV dataset: emails.csv
+2025-02-09 12:16:50,492 - Combined dataset size: (188096, 799)
+2025-02-09 12:19:10,632 - Loading CSV dataset: cleaned_spam_data.csv
+2025-02-09 12:19:10,920 - Loading CSV dataset: data1.csv
+2025-02-09 12:19:14,039 - Loading Excel dataset: data1.xlsx
+2025-02-09 12:19:19,936 - Loading CSV dataset: datatest1.csv
+2025-02-09 12:19:19,941 - Loading CSV dataset: emails.csv
+2025-02-09 12:19:20,519 - Combined dataset size: (188096, 799)
+2025-02-09 12:19:21,099 - Cleaned dataset size: 5728 (Dropped 182368 rows)
+2025-02-09 12:19:24,964 - Model Accuracy: 0.9868
+2025-02-09 12:19:24,967 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.99       859
+         1.0       0.98      0.99      0.99       885
+
+    accuracy                           0.99      1744
+   macro avg       0.99      0.99      0.99      1744
+weighted avg       0.99      0.99      0.99      1744
+
+2025-02-09 12:19:25,127 - ROC-AUC: 0.9994
+2025-02-09 12:19:25,932 - All outputs saved to output folder.
+2025-02-09 12:35:32,263 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-09 12:35:35,536 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:35:41,992 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-09 12:35:42,053 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:35:42,413 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-09 12:35:42,414 - Loading datasets from sorted_datasets
+2025-02-09 12:35:43,077 - Loaded combined dataset of size: (50669, 797)
+2025-02-09 12:35:46,783 - Model Accuracy: 0.9494
+2025-02-09 12:35:46,788 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.94      0.95      9572
+         1.0       0.94      0.96      0.95      9572
+
+    accuracy                           0.95     19144
+   macro avg       0.95      0.95      0.95     19144
+weighted avg       0.95      0.95      0.95     19144
+
+2025-02-09 12:35:46,795 - Model and vectorizer saved.
+2025-02-09 12:35:46,962 - Confusion matrix saved.
+2025-02-09 12:47:39,636 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-09 12:47:42,902 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:47:49,509 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-09 12:47:49,571 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:47:49,931 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-09 12:47:49,932 - Loading datasets from sorted_datasets
+2025-02-09 12:47:50,588 - Loaded combined dataset of size: (50669, 797)
+2025-02-09 12:47:54,225 - Model Accuracy: 0.9494
+2025-02-09 12:47:54,231 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.94      0.95      9572
+         1.0       0.94      0.96      0.95      9572
+
+    accuracy                           0.95     19144
+   macro avg       0.95      0.95      0.95     19144
+weighted avg       0.95      0.95      0.95     19144
+
+2025-02-09 12:47:54,239 - Model and vectorizer saved.
+2025-02-09 12:47:54,397 - Confusion matrix saved.
+2025-02-09 12:58:30,777 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-09 12:58:33,948 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:58:40,411 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-09 12:58:40,476 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-09 12:58:43,209 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-09 12:58:43,210 - Loading datasets from sorted_datasets
+2025-02-09 12:58:43,869 - Loaded combined dataset of size: (50669, 797)
+2025-02-09 12:58:47,460 - Best parameters: {'alpha': 0.1}
+2025-02-09 12:58:47,468 - Model Accuracy: 0.9543
+2025-02-09 12:58:47,468 - Precision: 0.9512, Recall: 0.9577, F1-Score: 0.9544
+2025-02-09 12:58:47,474 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.95      0.95      9572
+         1.0       0.95      0.96      0.95      9572
+
+    accuracy                           0.95     19144
+   macro avg       0.95      0.95      0.95     19144
+weighted avg       0.95      0.95      0.95     19144
+
+2025-02-09 12:58:47,482 - Model and vectorizer saved: output\model_20250209_125847.pkl, output\vectorizer_20250209_125847.pkl
+2025-02-09 12:58:47,713 - ROC curve saved.
+2025-02-09 12:58:48,765 - Word cloud saved.

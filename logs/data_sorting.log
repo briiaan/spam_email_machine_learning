@@ -1,0 +1,48 @@
+2025-02-09 12:24:46,796 - Cleaned and sorted data saved: Spam -> sorted_datasets\cleaned_spam_data_spam.csv, Not Spam -> sorted_datasets\cleaned_spam_data_not_spam.csv
+2025-02-09 12:24:49,974 - Missing 'text' column in datasets\data1.csv. Cannot process.
+2025-02-09 12:24:56,157 - Missing 'text' column in datasets\data1.xlsx. Cannot process.
+2025-02-09 12:24:56,219 - Missing 'text' column in datasets\datatest1.csv. Cannot process.
+2025-02-09 12:24:56,612 - Cleaned and sorted data saved: Spam -> sorted_datasets\emails_spam.csv, Not Spam -> sorted_datasets\emails_not_spam.csv
+2025-02-09 12:29:23,346 - Cleaned and sorted data saved: Spam -> sorted_datasets\cleaned_spam_data_spam.csv, Not Spam -> sorted_datasets\cleaned_spam_data_not_spam.csv
+2025-02-09 12:29:26,451 - Detected 'sender' as the text column.
+2025-02-09 12:29:26,463 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:29:26,580 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.csv, Not Spam -> sorted_datasets\data1_not_spam.csv
+2025-02-09 12:29:32,575 - Detected 'sender' as the text column.
+2025-02-09 12:29:32,679 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:29:32,862 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.xlsx, Not Spam -> sorted_datasets\data1_not_spam.xlsx
+2025-02-09 12:29:32,922 - Detected 'sender' as the text column.
+2025-02-09 12:29:32,923 - Detected 'label' as the spam column.
+2025-02-09 12:29:32,929 - Cleaned and sorted data saved: Spam -> sorted_datasets\datatest1_spam.csv, Not Spam -> sorted_datasets\datatest1_not_spam.csv
+2025-02-09 12:29:33,276 - Cleaned and sorted data saved: Spam -> sorted_datasets\emails_spam.csv, Not Spam -> sorted_datasets\emails_not_spam.csv
+2025-02-09 12:31:47,853 - datasets\cleaned_spam_data.csv: Initial rows = 39156, Usable rows = 39088.
+2025-02-09 12:31:47,854 - Cleaned and sorted data saved: Spam -> sorted_datasets\cleaned_spam_data_spam.csv, Not Spam -> sorted_datasets\cleaned_spam_data_not_spam.csv
+2025-02-09 12:31:50,993 - Detected 'sender' as the text column.
+2025-02-09 12:31:51,008 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:31:51,502 - datasets\data1.csv: Initial rows = 71486, Usable rows = 64823.
+2025-02-09 12:31:51,503 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.csv, Not Spam -> sorted_datasets\data1_not_spam.csv
+2025-02-09 12:31:57,915 - Detected 'sender' as the text column.
+2025-02-09 12:31:58,014 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:31:58,521 - datasets\data1.xlsx: Initial rows = 71602, Usable rows = 64773.
+2025-02-09 12:31:58,521 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.xlsx, Not Spam -> sorted_datasets\data1_not_spam.xlsx
+2025-02-09 12:31:58,578 - Detected 'sender' as the text column.
+2025-02-09 12:31:58,578 - Detected 'label' as the spam column.
+2025-02-09 12:31:58,584 - datasets\datatest1.csv: Initial rows = 124, Usable rows = 124.
+2025-02-09 12:31:58,584 - Cleaned and sorted data saved: Spam -> sorted_datasets\datatest1_spam.csv, Not Spam -> sorted_datasets\datatest1_not_spam.csv
+2025-02-09 12:31:58,933 - datasets\emails.csv: Initial rows = 5728, Usable rows = 5728.
+2025-02-09 12:31:58,933 - Cleaned and sorted data saved: Spam -> sorted_datasets\emails_spam.csv, Not Spam -> sorted_datasets\emails_not_spam.csv
+2025-02-09 12:47:18,784 - datasets\cleaned_spam_data.csv: Initial rows = 39156, Usable rows = 39088.
+2025-02-09 12:47:18,784 - Cleaned and sorted data saved: Spam -> sorted_datasets\cleaned_spam_data_spam.csv, Not Spam -> sorted_datasets\cleaned_spam_data_not_spam.csv
+2025-02-09 12:47:21,862 - Detected 'sender' as the text column.
+2025-02-09 12:47:21,876 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:47:22,323 - datasets\data1.csv: Initial rows = 71486, Usable rows = 64823.
+2025-02-09 12:47:22,323 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.csv, Not Spam -> sorted_datasets\data1_not_spam.csv
+2025-02-09 12:47:28,220 - Detected 'sender' as the text column.
+2025-02-09 12:47:28,321 - Detected 'Unnamed: 599' as the spam column.
+2025-02-09 12:47:28,805 - datasets\data1.xlsx: Initial rows = 71602, Usable rows = 64773.
+2025-02-09 12:47:28,805 - Cleaned and sorted data saved: Spam -> sorted_datasets\data1_spam.xlsx, Not Spam -> sorted_datasets\data1_not_spam.xlsx
+2025-02-09 12:47:28,859 - Detected 'sender' as the text column.
+2025-02-09 12:47:28,860 - Detected 'label' as the spam column.
+2025-02-09 12:47:28,866 - datasets\datatest1.csv: Initial rows = 124, Usable rows = 124.
+2025-02-09 12:47:28,866 - Cleaned and sorted data saved: Spam -> sorted_datasets\datatest1_spam.csv, Not Spam -> sorted_datasets\datatest1_not_spam.csv
+2025-02-09 12:47:29,218 - datasets\emails.csv: Initial rows = 5728, Usable rows = 5728.
+2025-02-09 12:47:29,218 - Cleaned and sorted data saved: Spam -> sorted_datasets\emails_spam.csv, Not Spam -> sorted_datasets\emails_not_spam.csv
