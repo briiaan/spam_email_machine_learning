@@ -139,3 +139,153 @@ weighted avg       0.95      0.95      0.95     19144
 2025-02-09 12:58:47,482 - Model and vectorizer saved: output\model_20250209_125847.pkl, output\vectorizer_20250209_125847.pkl
 2025-02-09 12:58:47,713 - ROC curve saved.
 2025-02-09 12:58:48,765 - Word cloud saved.
+2025-02-19 10:25:08,113 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-19 10:25:11,394 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-19 10:25:18,124 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-19 10:25:18,189 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-19 10:25:21,136 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-19 10:25:21,138 - Loading datasets from sorted_datasets
+2025-02-19 10:25:21,936 - Loaded combined dataset of size: (50669, 797)
+2025-02-19 10:25:25,821 - Best parameters: {'alpha': 0.1}
+2025-02-19 10:25:25,829 - Model Accuracy: 0.9688
+2025-02-19 10:25:25,831 - Precision: 0.9702, Recall: 0.9672, F1-Score: 0.9687
+2025-02-19 10:25:25,837 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.97      0.97      9572
+         1.0       0.97      0.97      0.97      9572
+
+    accuracy                           0.97     19144
+   macro avg       0.97      0.97      0.97     19144
+weighted avg       0.97      0.97      0.97     19144
+
+2025-02-19 10:25:25,852 - Model and vectorizer saved: output\model_20250219_102525.pkl, output\vectorizer_20250219_102525.pkl
+2025-02-19 10:25:26,085 - ROC curve saved.
+2025-02-19 10:25:27,195 - Word cloud saved.
+2025-02-27 11:00:40,417 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-27 11:00:43,613 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:00:50,110 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:00:50,175 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:00:53,012 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-27 11:00:53,014 - Loading datasets from sorted_datasets
+2025-02-27 11:00:53,829 - Loaded combined dataset of size: (50669, 797)
+2025-02-27 11:00:57,544 - Best parameters: {'alpha': 0.1}
+2025-02-27 11:00:57,553 - Model Accuracy: 0.9688
+2025-02-27 11:00:57,553 - Precision: 0.9702, Recall: 0.9672, F1-Score: 0.9687
+2025-02-27 11:00:57,559 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.97      0.97      9572
+         1.0       0.97      0.97      0.97      9572
+
+    accuracy                           0.97     19144
+   macro avg       0.97      0.97      0.97     19144
+weighted avg       0.97      0.97      0.97     19144
+
+2025-02-27 11:00:57,573 - Model and vectorizer saved: output\model_20250227_110057.pkl, output\vectorizer_20250227_110057.pkl
+2025-02-27 11:00:57,850 - ROC curve saved.
+2025-02-27 11:00:58,972 - Word cloud saved.
+2025-02-27 11:06:56,069 - Skipping cleaned_spam_data.csv: Missing required columns.
+2025-02-27 11:06:59,147 - Skipping data1.csv: Missing required columns.
+2025-02-27 11:07:05,540 - Skipping data1.xlsx: Missing required columns.
+2025-02-27 11:07:05,603 - Skipping datatest1.csv: Missing required columns.
+2025-02-27 11:07:05,645 - Skipping emails.csv: Missing required columns.
+2025-02-27 11:07:05,647 - Loading datasets...
+2025-02-27 11:07:06,166 - Missing required columns.
+2025-02-27 11:11:57,835 - Skipping cleaned_spam_data.csv: Not enough required columns.
+2025-02-27 11:12:01,104 - Skipping data1.csv: Not enough required columns.
+2025-02-27 11:12:07,650 - Skipping data1.xlsx: Not enough required columns.
+2025-02-27 11:12:07,711 - Skipping datatest1.csv: Not enough required columns.
+2025-02-27 11:12:07,753 - Skipping emails.csv: Not enough required columns.
+2025-02-27 11:12:07,755 - Loading datasets...
+2025-02-27 11:12:08,224 - Missing required columns.
+2025-02-27 11:12:42,325 - Cleaned data saved to sorted_datasets\cleaned_spam_data.csv
+2025-02-27 11:12:45,766 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:12:52,616 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:12:52,677 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:12:55,690 - Cleaned data saved to sorted_datasets\emails.csv
+2025-02-27 11:12:55,692 - Loading datasets from sorted_datasets
+2025-02-27 11:12:56,399 - Loaded combined dataset of size: (50669, 797)
+2025-02-27 11:13:00,438 - Best parameters: {'alpha': 0.1}
+2025-02-27 11:13:00,447 - Model Accuracy: 0.9688
+2025-02-27 11:13:00,449 - Precision: 0.9702, Recall: 0.9672, F1-Score: 0.9687
+2025-02-27 11:13:00,452 - Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.97      0.97      0.97      9572
+         1.0       0.97      0.97      0.97      9572
+
+    accuracy                           0.97     19144
+   macro avg       0.97      0.97      0.97     19144
+weighted avg       0.97      0.97      0.97     19144
+
+2025-02-27 11:13:00,466 - Model and vectorizer saved: output\model_20250227_111300.pkl, output\vectorizer_20250227_111300.pkl
+2025-02-27 11:13:00,704 - ROC curve saved.
+2025-02-27 11:13:01,837 - Word cloud saved.
+2025-02-27 11:14:47,988 - Skipping cleaned_spam_data.csv: Not enough required columns.
+2025-02-27 11:14:51,057 - Skipping data1.csv: Not enough required columns.
+2025-02-27 11:14:57,072 - Skipping data1.xlsx: Not enough required columns.
+2025-02-27 11:14:57,131 - Skipping datatest1.csv: Not enough required columns.
+2025-02-27 11:14:57,173 - Skipping emails.csv: Not enough required columns.
+2025-02-27 11:14:57,174 - Loading datasets...
+2025-02-27 11:14:57,651 - Missing required columns.
+2025-02-27 11:16:58,041 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:17:01,193 - Skipping data1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:17:07,681 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:17:07,743 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:17:10,414 - Cleaned data saved: emails.csv
+2025-02-27 11:17:10,416 - Loading datasets...
+2025-02-27 11:21:41,736 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:21:58,398 - Cleaned data saved: data1.csv
+2025-02-27 11:22:05,037 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:22:05,097 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:22:07,826 - Cleaned data saved: emails.csv
+2025-02-27 11:22:07,828 - Loading datasets...
+2025-02-27 11:24:04,284 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:24:16,203 - Cleaned data saved: data1.csv
+2025-02-27 11:24:22,376 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:24:22,439 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:24:25,175 - Cleaned data saved: emails.csv
+2025-02-27 11:24:25,176 - Loading datasets...
+2025-02-27 11:24:38,807 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:27:25,958 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:27:37,797 - Cleaned data saved: data1.csv
+2025-02-27 11:27:44,191 - Skipping data1.xlsx: Missing 'text' or 'spam' column.
+2025-02-27 11:27:44,253 - Skipping datatest1.csv: Missing 'text' or 'spam' column.
+2025-02-27 11:27:46,989 - Cleaned data saved: emails.csv
+2025-02-27 11:27:46,990 - Loading datasets...
+2025-02-27 11:28:01,322 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:31:21,141 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:31:32,940 - Cleaned data saved: data1.csv
+2025-02-27 11:31:35,987 - Cleaned data saved: emails.csv
+2025-02-27 11:31:35,988 - Loading datasets...
+2025-02-27 11:31:50,005 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:34:45,263 - Cleaned data saved: cleaned_spam_data.csv
+2025-02-27 11:34:57,355 - Cleaned data saved: data1.csv
+2025-02-27 11:35:00,364 - Cleaned data saved: emails.csv
+2025-02-27 11:35:00,366 - Loading datasets...
+2025-02-27 11:35:14,844 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:39:41,450 - Loading datasets...
+2025-02-27 11:39:54,891 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:41:39,901 - Loading datasets...
+2025-02-27 11:41:53,393 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:43:31,791 - Loading datasets...
+2025-02-27 11:43:45,222 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:45:03,251 - Loading datasets...
+2025-02-27 11:45:17,075 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:48:20,399 - Loading datasets...
+2025-02-27 11:48:34,138 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:51:06,075 - Loading datasets...
+2025-02-27 11:51:20,398 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:55:18,931 - Loading datasets...
+2025-02-27 11:55:32,741 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:55:32,742 - Total Samples Used: 89201
+2025-02-27 11:55:32,742 - Spam Count: 2811.0, Ham Count: 86390.0
+2025-02-27 11:57:34,982 - Loading datasets...
+2025-02-27 11:57:48,342 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:57:48,343 - Total Samples Used: 89201
+2025-02-27 11:57:48,344 - Spam Count: 2811.0, Ham Count: 86390.0
+2025-02-27 12:02:52,329 - Loading datasets...
+2025-02-27 12:03:06,677 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 12:03:06,679 - Total Samples Used: 89201
+2025-02-27 12:03:06,679 - Spam Count: 2811.0, Ham Count: 86390.0

@@ -1,0 +1,13 @@
+2025-02-27 11:57:34.983558 - Loading datasets...
+2025-02-27 11:57:48.343951 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 11:57:48.344961 - Total Samples Used: 89201
+2025-02-27 11:57:48.344961 - Spam Count: 2811.0, Ham Count: 86390.0
+2025-02-27 11:57:48.515506 - Spam vs. Ham distribution graph saved.
+2025-02-27 11:57:49.262946 - Message length distribution graph saved.
+2025-02-27 12:02:52.330063 - Loading datasets...
+2025-02-27 12:03:06.678133 - Performance: {'accuracy': 0.9548848246324806, 'precision': 0.9440802375749425, 'recall': 0.9677771395749569, 'f1_score': 0.9557818305584707}
+2025-02-27 12:03:06.679117 - Total Samples Used: 89201
+2025-02-27 12:03:06.680539 - Spam Count: 2811.0, Ham Count: 86390.0
+2025-02-27 12:03:06.849102 - Confusion matrix saved.
+2025-02-27 12:03:06.945184 - ROC curve saved.
+2025-02-27 12:03:07.977426 - Spam word cloud saved.
