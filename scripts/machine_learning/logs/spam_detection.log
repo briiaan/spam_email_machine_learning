@@ -1,0 +1,38 @@
+2025-03-07 19:21:13,025 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.173:8080
+2025-03-07 19:21:13,025 - [33mPress CTRL+C to quit[0m
+2025-03-07 19:21:13,027 -  * Restarting with stat
+2025-03-07 19:21:14,146 -  * Debugger is active!
+2025-03-07 19:21:14,152 -  * Debugger PIN: 212-930-271
+2025-03-07 19:26:42,008 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.173:8080
+2025-03-07 19:26:42,009 - [33mPress CTRL+C to quit[0m
+2025-03-07 19:26:42,010 -  * Restarting with stat
+2025-03-07 19:26:42,916 -  * Debugger is active!
+2025-03-07 19:26:42,920 -  * Debugger PIN: 143-516-360
+2025-03-07 19:27:09,772 - 127.0.0.1 - - [07/Mar/2025 19:27:09] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:27:09,800 - 127.0.0.1 - - [07/Mar/2025 19:27:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 19:29:12,502 - 127.0.0.1 - - [07/Mar/2025 19:29:12] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:13,777 - 127.0.0.1 - - [07/Mar/2025 19:29:13] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:15,063 - 127.0.0.1 - - [07/Mar/2025 19:29:15] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:16,018 - 127.0.0.1 - - [07/Mar/2025 19:29:16] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:16,556 - 127.0.0.1 - - [07/Mar/2025 19:29:16] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:16,959 - 127.0.0.1 - - [07/Mar/2025 19:29:16] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:19,183 - 127.0.0.1 - - [07/Mar/2025 19:29:19] "GET /predict?text=Hello+friend,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:51,032 - 127.0.0.1 - - [07/Mar/2025 19:29:51] "GET /predict?text=Hello+dont%20forget%20the%20doctors%20meeting%20tomorrow,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:29:53,546 - 127.0.0.1 - - [07/Mar/2025 19:29:53] "GET /predict?text=Hello+dont%20forget%20the%20doctors%20meeting%20tomorrow,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:30:00,609 - 127.0.0.1 - - [07/Mar/2025 19:30:00] "GET /predict?text=Hello+dont%20forget%20the%20doctors%20meeting%20tomorrow,+how+are+you+today? HTTP/1.1" 200 -
+2025-03-07 19:30:39,167 - 127.0.0.1 - - [07/Mar/2025 19:30:39] "GET /predict?text=Hello%20friend,%20how%20are%20you%20today? HTTP/1.1" 200 -
+2025-03-07 19:30:46,363 - 127.0.0.1 - - [07/Mar/2025 19:30:46] "GET /predict?text=Hello%20friend,%20how%20are%20you%20today? HTTP/1.1" 200 -
+2025-03-07 19:36:46,502 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.173:8080
+2025-03-07 19:36:46,503 - [33mPress CTRL+C to quit[0m
+2025-03-07 19:36:46,503 -  * Restarting with stat
+2025-03-07 19:36:47,437 -  * Debugger is active!
+2025-03-07 19:36:47,441 -  * Debugger PIN: 143-516-360
